@@ -1,6 +1,6 @@
 # alien-world-mission-info
 
-this code receives . how many tim reward to date total
+this code receives . how many tlm reward to date total
 
 you need to install web3js 
 
